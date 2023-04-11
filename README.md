@@ -58,6 +58,8 @@
 
 ## 英语学习资源
 
+[英语学习资源](https://github.com/fltenwall/The-English-For-Programmer/blob/main/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90/resource.md)
+
 
 ## 英语学习工具
 
@@ -75,6 +77,8 @@
 
 
 ## 每日英文表达积累
+
+[每日常用英语表达](https://github.com/fltenwall/The-English-For-Programmer/blob/main/%E6%AF%8F%E6%97%A5%E8%8B%B1%E6%96%87/everyday.md)
 
 
 
