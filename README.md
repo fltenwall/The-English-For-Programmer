@@ -59,6 +59,17 @@
 ## 英语学习资源
 
 
+## 英语学习工具
+
+[forvo](https://zh.forvo.com/) 最佳发音
+
+[vocabulary](https://www.vocabulary.com/) 英文释义
+
+[powerthesaurus](https://www.powerthesaurus.org/) 近义词替换
+
+[wordtune](https://app.wordtune.com/editor/) 语法自动检查
+
+
 ## 每日英文表达积累
 
 
