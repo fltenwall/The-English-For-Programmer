@@ -69,6 +69,10 @@
 
 [wordtune](https://app.wordtune.com/editor/) 语法自动检查
 
+[speechling](https://speechling.com/how-to/zen-mo-shuo-wo-zhun-bei-hao-le-yong-ying-wen-1697) 多口音发音
+
+[speechling免费听写练习](https://speechling.com/zh/dictation)
+
 
 ## 每日英文表达积累
 
