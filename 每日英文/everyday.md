@@ -213,3 +213,7 @@ Your puppy is so cute.
 What a cute baby. Look at how big his eyes are.
 
 There was this girl, she was really cute(hot).
+
+#### 收起了伞
+
+The man fold the sunshade.
