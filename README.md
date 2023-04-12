@@ -85,6 +85,16 @@
 
 [speechling免费听写练习](https://speechling.com/zh/dictation)
 
+[tr-ex](https://tr-ex.me/)  短语/句子 多样翻译，句子朗读
+
+[context](https://context.reverso.net/) 海量句子翻译/例句
+
+[中式英语纠错](https://www.businessweekly.com.tw/channel/englishlearning/0000000335) 
+
+[NG 英文](https://www.hopenglish.com/tips) 地点英文，情景解释
+
+[NG 英文影片](https://www.hopenglish.com/tag/misused-expressions)
+
 
 ## 每日英文表达积累
 
