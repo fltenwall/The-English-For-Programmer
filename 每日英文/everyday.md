@@ -181,3 +181,35 @@ furniture/floor/shoe/silver **polish**
 
 I give it a **polish** now and again.
 
+
+#### 时态的英文
+
+present tense / form. 现在时
+
+past tense. 过去时
+
+future tense. 将来时
+
+present progressive.  现在进行时
+
+past progressive. 过去进行时
+
+#### 我迷路了
+
+I got lost.
+
+#### 给我一个理由
+
+Tell me why.
+
+#### 很可爱
+
+You're lovely!
+
+She is a lovely young lady.
+
+Your puppy is so cute.
+
+What a cute baby. Look at how big his eyes are.
+
+There was this girl, she was really cute(hot).
