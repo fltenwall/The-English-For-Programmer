@@ -146,3 +146,6 @@ I showed him my passport（护照）.
 
 She is very quiet.
 
+#### 虚伪的人
+ 
+He is hypocritical.
