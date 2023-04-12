@@ -89,6 +89,6 @@
 
 ## 我的学习记录📝
 
-[2023.4月学习记录]()
+[2023.4月学习记录](https://github.com/fltenwall/The-English-For-Programmer/blob/main/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/recordings.md)
 
 
