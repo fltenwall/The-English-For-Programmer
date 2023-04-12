@@ -22,7 +22,9 @@ I want to withdraw 200 RMB from my deposit account.
 
 胃 stomach
 
-#### 下班 off work【2023-4-11】
+#### 下班 off work【2023-4-11, 2023-4-12】
+
+I’m getting off work.
 
 Are you off work? 【你下班吗】
 
@@ -32,7 +34,15 @@ When are you off work? 【你什么时候下班】
 
 What time do you get off work？【你什么时候下班】
 
-#### 上班【2023-4-11】
+I’m going home in five minutes.
+
+As soon as I get off work, I’ll call you.
+
+I’ve been so busy that I’ve never been able to get off work on time.
+
+#### 上班【2023-4-11, 2023-4-12】
+
+I’m going to work.
 
 Are you working？【你在工作吗】
 
@@ -41,6 +51,11 @@ You working？【你在工作吗】
 You work tomorrow？/ You work Monday？ 【xx上班吗（想约别人）】
 
 I'm off to work. 【我去上班了】
+
+
+#### 失业
+
+out of work
 
 #### one piece 《海贼王》【2023-4-11】
 
