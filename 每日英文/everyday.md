@@ -149,3 +149,35 @@ She is very quiet.
 #### 虚伪的人
  
 He is hypocritical.
+
+#### 心灵/灵魂
+
+heart and soul
+
+#### 擅长
+
+He's very good at telling jokes.
+
+#### 作演讲🗣
+
+She *lectures*(v) to audiences all over the world.
+
+The speaker spent several days  polishing  her *lecture*(n).
+
+#### 擦眼镜👓
+
+He *polished* his glasses with a handkerchief.
+
+kerchief. 
+
+handkerchief.
+#### polish
+
+The  speaker spent serveral  days *polishing* her lecture.
+
+He *polished* his glasses with a handkerchief.
+
+furniture/floor/shoe/silver **polish**
+
+I give it a **polish** now and again.
+
