@@ -384,11 +384,21 @@ Today, food is no more just a meal to **fill the stomach**.
 
 I need some food to meet my stomach.【不确定】
 
-#### 吃撑了【2023-4-12】
+#### 吃撑了【2023-4-12，2023-4-13】
 
 I am stuffed.
 
 I'm completely full.
+
+I’ve had too much already.
+
+I can’t eat another bite.
+
+I have had more than enough already.
+
+I can hardly move.
+
+I'll burst if I eat another mouthful.
 
 
 #### 的确 Indeed【2023-4-12】
@@ -578,6 +588,9 @@ Take a rain check.
 
 Thank you, but I have to take a rain check on your invitation.
 
+#### 节约用水/纸【2023-4-13】
+
+save water/paper
 
 
 

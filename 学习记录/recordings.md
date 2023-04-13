@@ -15,4 +15,12 @@
 
 #### 2023.4.13
 
+##### 输入：
+
 [The lecture of ChatGPT in PolyU](https://github.com/fltenwall/The-English-For-Programmer/blob/main/%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9B%B8%E5%85%B3%E8%8B%B1%E8%AF%AD/ChatGPT.md)
+
+名词相关的语法
+
+##### 输出：
+
+[程序员的自我介绍](https://github.com/fltenwall/The-English-For-Programmer/blob/main/%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9B%B8%E5%85%B3%E8%8B%B1%E8%AF%AD/%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D.md)
