@@ -15,6 +15,30 @@ Behavior ability(Behavior)
 
 ##### The history of artificial intelligence?
 
+#### Perception ablitity
+
+ear: hear(sound)
+
+nose: smell(odor)
+
+tongue: taste(flavor)
+
+eye: see(sight)
+
+body: touch(object)
+
+#### Reasoning and decision-making ability(Cognition)
+
+proof of a math theorem
+
+aerospace
+
+disease diagnosis
+
+data analysis
+
+insurance claims
+
 
 #### What ChatGPT is good at?
 
