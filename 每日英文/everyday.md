@@ -53,7 +53,7 @@ You work tomorrow？/ You work Monday？ 【xx上班吗（想约别人）】
 I'm off to work. 【我去上班了】
 
 
-#### 失业
+#### 失业【2023-4-11】
 
 out of work
 
@@ -239,19 +239,19 @@ There was this girl, she was really cute(hot).
 
 The man fold the sunshade.
 
-#### 注意台阶 
+#### 注意台阶【2023-4-12】
 
 Mind the step.
 
-#### 擦嘴
+#### 擦嘴【2023-4-12】
 
 wipe your mouth
 
-#### 你觉得怎么样？
+#### 你觉得怎么样？【2023-4-12】
 
 What do you think?
 
-#### 不太...(not + 最高级, 肯定形式语气越强烈，对应的否定形式就越不强烈)
+#### 不太...(not + 最高级, 肯定形式语气越强烈，对应的否定形式就越不强烈)【2023-4-12】
 
 ##### 今天不太舒服 
 
@@ -313,7 +313,7 @@ It might not be the best idea to reuse a mask.
 
 He is not the best choice for (this job).
 
-#### 我英语不好
+#### 我英语不好【2023-4-12】
 
 My English is poor. ❌
 
@@ -330,14 +330,14 @@ My English is okay, so I need to improve it.
 I'm still in process in learning English.
 
 
-#### 擅长/不擅长，xxx好/不好
+#### 擅长/不擅长，xxx好/不好【2023-4-12】
 
 I'm good at xxx.
 
 I'm not good at xxx.
 
 
-#### 视力不太好
+#### 视力不太好【2023-4-12】
 
 视力好：
 
@@ -351,7 +351,7 @@ I'm not good at xxx.
 
 02.I have bad eyes.
 
-#### 戴眼镜
+#### 戴眼镜【2023-4-12】
 
 I **wear glasses** because I *have bad eyes*.
 
@@ -362,7 +362,7 @@ I’m wearing **sunglasses** today because it’s very **bright** outside. 户�
 
 I **have seen** many Chinese girls **wear colored contact lenses**. 我看到/我发现...
 
-#### 近视眼/远视眼
+#### 近视眼/远视眼【2023-4-12】
 
 近视：
 
@@ -378,24 +378,24 @@ I **have seen** many Chinese girls **wear colored contact lenses**. 我看到/�
 
 Are your eyes **long-sighted** or **short-sighted**?
 
-#### 填饱肚子
+#### 填饱肚子【2023-4-12】
 
 Today, food is no more just a meal to **fill the stomach**. 
 
 I need some food to meet my stomach.【不确定】
 
-#### 吃撑了
+#### 吃撑了【2023-4-12】
 
 I am stuffed.
 
 I'm completely full.
 
 
-#### 的确 Indeed
+#### 的确 Indeed【2023-4-12】
 
 Indeed, it's the only thing that ever has.的确，这是一个真理。
 
-#### 笑死我了🤣
+#### 笑死我了🤣【2023-4-12】
 
 You crack me up.
 
@@ -410,7 +410,7 @@ Oh my god! Look at his face! I’m **literally dead / dying**!
 That’s **hilarious**!
 
 
-#### 你是不是跟我有仇？/ 有仇？
+#### 你是不是跟我有仇？/ 有仇？【2023-4-12】
 
 What do you have against me? 【严肃-真的有仇】
 
@@ -419,12 +419,12 @@ You and me are enemies. 【严肃-真的有仇】
 And everything had it in for your dear husband?【不确定】
 
 
-#### Everything
+#### Everything【2023-4-12】
 
 Everything has its day. 凡事都有个变数
 
 
-#### 手机充电
+#### 手机充电【2023-4-12】
 
 I need to **charge my phone**.
 
@@ -433,7 +433,7 @@ My phone **needs to be charged**.
 My phone **needs to be recharged**.
 
 
-#### 等我一下
+#### 等我一下【2023-4-12】
 
 Wait for me.
 
@@ -446,14 +446,14 @@ Just a minute.
 Give me a second.
 
 
-#### 我想出去玩（不是🙅‍♂️play,而是 hang out or go out）
+#### 我想出去玩（不是🙅‍♂️play,而是 hang out or go out）【2023-4-12】
 
 I want to hang out with you.（我想跟你出去玩。）
 I want to go out with you.（我想跟你出去玩。）
 Let’s hang out together.（我们一起出去玩吧。）
 
 
-#### play
+#### play【2023-4-12】
 
 跟小孩子玩 Mommy, can you **play** with me?
 
@@ -461,11 +461,11 @@ Let’s hang out together.（我们一起出去玩吧。）
 
 感情上的玩玩 He’s just **playing** with me.（他只是跟我玩玩的。）
 
-#### 我不知道他在想什么
+#### 我不知道他在想什么【2023-4-12】
 
 I **seriously** don’t know **what she is thinking**!
 
-#### 我考虑一下
+#### 我考虑一下【2023-4-12】
 
 I'll need to chew it over.
 
@@ -475,18 +475,18 @@ Thank you for your offer and **could I have some time** to **mull it over**?（�
 
 I'll think about it.🙅‍♂️❌ 表示拒绝
 
-#### 骂一顿
+#### 骂一顿【2023-4-12】
 
 I knew my dad was going to **chew me out**.（我就知道老爸会把我痛骂一顿）
 
 
-#### 我很喜欢你😍
+#### 我很喜欢你😍【2023-4-12】
 
 Hey, I **kinda** like you, will you **go out with me**(约会)? 
 
 I'll think about it.（我再想想→意思是不会）
 
-#### 我很想你
+#### 我很想你【2023-4-12】
 
 **very 通常是用來描述「程度」，而不能直接修饰动词**
 
@@ -503,7 +503,7 @@ I miss you a lot.
 I miss you **so bad(很)**.
 
 
-#### 我想...(I want...过于强硬 🙅‍♂️❌)
+#### 我想...(I want...过于强硬 🙅‍♂️❌)【2023-4-12】
 
 I **would like** a McChicken burger meal **with** medium fries and a large Coke. （我想要点一份麦香鸡餐，搭配中薯跟大杯可乐）
 
@@ -511,12 +511,12 @@ I **would like** a McChicken burger meal **with** medium fries and a large Coke.
 
 **Would you like** some milk?（您想要牛奶吗？）
 
-#### 会不会怎么样/是不是怎么样
+#### 会不会怎么样/是不是怎么样【2023-4-12】
 
 Is that ...(adjective)? 【不确定】
 
 
-#### 我正在想...
+#### 我正在想...【2023-4-12】
 
 I'm trying to **think of something**, and you'd better **do the same**. 我在想办法， 你也想想.
 
@@ -524,7 +524,7 @@ I'm trying to **think of** the best way to **put this**. 我在想应该怎么�
 
 I'm trying to think of the best choice. 【不确定】
 
-#### 我哪天都行 
+#### 我哪天都行 【2023-4-12】
 
 **would you please** **let me know** which day is **ok** **with you**.
 
@@ -532,19 +532,19 @@ Every day is ok for me. ❌ 必须天天约
 
 Any day is ok for me. ✅
 
-#### 看你👀时间
+#### 看你👀时间【2023-4-12】
 
 Any time you want...
 
 Any time you want a babysitter, dear, **you only have to ask*(说一声就行)*.
 
-#### 注意时间
+#### 注意时间【2023-4-12】
 
 Watch your time! 注意📢你的时间
 
 Watch your time!You will be **bound to fail** if you don't take any actios.
 
-#### 你有空吗？
+#### 你有空吗？【2023-4-12】
 
 Do you have a moment?/Do you have a minute?
 
@@ -556,19 +556,19 @@ Are you available?
 
 Can you spare some time?
 
-#### 有空
+#### 有空【2023-4-12】
 
 I'm available.
 
 I'm available any time you need.
 
-#### 没空
+#### 没空【2023-4-12】
 
 I’m sorry, I ’m a bit busy at the moment.
 
 I can't tell you right now.
 
-#### 改天吧
+#### 改天吧【2023-4-12】
 
 How about another day？
 
