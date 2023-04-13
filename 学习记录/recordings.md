@@ -12,3 +12,7 @@
 1-2
 
 --------------------------------------------------
+
+#### 2023.4.13
+
+[The lecture of ChatGPT in PolyU](https://github.com/fltenwall/The-English-For-Programmer/blob/main/%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9B%B8%E5%85%B3%E8%8B%B1%E8%AF%AD/ChatGPT.md)
