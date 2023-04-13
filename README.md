@@ -91,7 +91,7 @@
 
 [中式英语纠错](https://www.businessweekly.com.tw/channel/englishlearning/0000000335) 
 
-[NG 英文](https://www.hopenglish.com/tips) 地点英文，情景解释
+[NG 英文](https://www.hopenglish.com/tips) 地道英文，情景解释
 
 [NG 英文影片](https://www.hopenglish.com/tag/misused-expressions)
 
