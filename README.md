@@ -109,6 +109,10 @@
 
 [每日常用英语表达](https://github.com/fltenwall/The-English-For-Programmer/blob/main/%E6%AF%8F%E6%97%A5%E8%8B%B1%E6%96%87/everyday.md)
 
+## 话题英语
+
+[日常话题](https://github.com/fltenwall/The-English-For-Programmer/blob/main/%E8%AF%9D%E9%A2%98%E8%8B%B1%E8%AF%AD/index.md)
+
 
 ## 我的学习记录📝
 
