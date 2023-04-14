@@ -91,9 +91,18 @@
 
 [中式英语纠错](https://www.businessweekly.com.tw/channel/englishlearning/0000000335) 
 
+## 日常英语学习
+
 [NG 英文](https://www.hopenglish.com/tips) 地道英文，情景解释
 
 [NG 英文影片](https://www.hopenglish.com/tag/misused-expressions)
+
+[kekenet 英语口语分类学习](https://m.kekenet.com/kouyu/)
+
+[englishday 日常英语名词](https://www.englishday.cc/)
+
+[hinative 英语问答-地道英文翻译](https://hinative.com/search/questions?utm_medium=referral&utm_source=hinative&utm_content=global_header_questions_show&language_id=22&q=%E6%99%9A%E4%B8%8A%E5%90%83%E4%BB%80%E4%B9%88&button=)
+
 
 
 ## 每日英文表达积累

@@ -749,6 +749,28 @@ This shirt is **too large** *for me*. Colud you **show me** *another one*？
 
 Who did this?
 
+#### 晚上吃什么？
+
+What's for dinner?
+
+#### 牛肉面
+
+beef noodle(不带汤)
+
+beef noddle soup(带汤的牛肉面)
+
+beef soup(牛肉汤)
+
+fried beef noodle(炒牛肉面)
+
+red-braised beef noodle soup(红烧牛肉面)
+
+#### 其他面
+
+spring noodle soup(阳春面，纯面条)
+
+
+
 
 
 
