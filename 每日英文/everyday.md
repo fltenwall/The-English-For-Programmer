@@ -640,6 +640,114 @@ Help yourself to some food.
 
 Every coin has two sides.
 
+####  遇到了麻烦
+
+He's in some kind of trouble.
+
+#### 我没钱
+
+I have little money.
+
+#### 我得去买点东西
+
+I need to **get**  a few things in town.
+
+#### 加点盐
+
+This food **needs** a little salt.
+
+#### 两个我都喜欢
+
+I like them both.
+
+I want them both.
+
+#### 两边都能停车
+
+You can **park** on *either side* of the street. 
+
+####  他不记得，我也不记得了 
+
+He didn't remember and neither did I.
+
+#### 我正在找一个安全的地方
+
+I'm **looking for** **someplace** safe.
+
+#### 我想要一点不一样的
+
+I want **something** different.
+
+
+#### 能借我点/能给我店/我能用你点...
+
+Can I use some of your paper？
+
+Could you lead me some money?
+
+#### 有问题随时问我
+
+If you have any problems, don't hesitate to ask me.
+
+#### 我不希望
+
+Will they come tomorrow？ **I hope not**
+
+#### 快点
+
+**Hurry up**, **if not**, you'll be late.
+
+#### 你要迟到了
+
+You'll be late.
+
+#### 不是所有发光的都是金子
+
+All the glitters is not gold.
+
+#### 没有人是完美的
+
+No man is perfect.
+
+#### 我能走了吗
+
+Can I go now? -- No, you can't. / Yes, you can.
+
+#### 直接说行不行
+
+Give a straight (answer) yes or no.
+
+#### 这个没那个好
+
+This is **not** better than that.
+
+#### 这个也不比那个好（都不好）
+
+This is **no** better than that.
+
+#### 我们投票了，9票赞成，3票反对
+
+We **took a vote**, and there were nine **yesses** and  3 **noes**.
+
+#### 他告诉了我消息
+
+He **told** me all the **news**, but **none of it** was exciting. 
+
+#### 每个人都应该严格要求自己
+
+**One** should always **be strict with** *oneself*.
+
+### 我在草丛/路边草丛/草堆 里看到了一只猫🐱
+
+I **saw** a cat **in the bush**.
+
+#### 这件👔太大了，麻烦给我换一件
+
+This shirt is **too large** *for me*. Colud you **show me** *another one*？
+
+#### 谁做的，谁干的
+
+Who did this?
 
 
 
