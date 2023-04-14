@@ -592,6 +592,54 @@ Thank you, but I have to take a rain check on your invitation.
 
 save water/paper
 
+#### 有事找我 
+
+Fell free to call me if you need my help.
+
+#### 我今天感觉不舒服
+
+I'm not myself today.
+
+It's mine.
+
+I'm not myself today.
+
+#### 都行
+
+Either is OK.
+
+#### 我会在现场
+
+I myself will be there.
+
+#### 我们应该小心点
+
+We both need to be careful.
+
+**need to be + adj**
+
+#### 我全做了/全是我做的
+
+I did them all.
+
+#### 我发现...很难
+
+I find it hard to ...
+
+I find it hart to speak fluent English.
+
+#### 你自己找点吃的
+
+Help yourself to some food.
+
+#### 去年的这个时候
+
+**This time last year** we were on holiday.
+
+#### 每一件事都有好坏 
+
+Every coin has two sides.
+
 
 
 
