@@ -769,6 +769,70 @@ red-braised beef noodle soup(红烧牛肉面)
 
 spring noodle soup(阳春面，纯面条)
 
+# 2023.4.17
+
+#### 你敷衍我
+
+wing n.翅膀 v.敷衍
+
+You just wing me.
+
+#### 牛逼！（夸人）
+
+You  are  amazing!
+
+#### 你是我的、你属于我
+
+You are mine.
+
+I will make you mine.
+
+#### 下课了
+
+Class is over.
+
+Today is over.
+
+#### 人都在这 
+
+Everyone is here.
+
+#### 我们可以吗、我们行吗、我们能做到吗
+
+Share we?
+
+#### 你怎么敢的！谁给你的勇气
+
+How dare you!
+
+#### 这是我的
+
+It's mine.
+
+#### 多么伟大的事业
+
+What a great game!
+
+####  急诊
+
+emergency
+
+#### 瑞幸咖啡
+
+luckin coffee
+
+#### 刻意练习
+
+deliberate practise
+
+#### 我觉得xxx怎么样
+
+I considered the work easy.
+
+The rabbit considered the carrot tasty.
+
+
+
 
 
 

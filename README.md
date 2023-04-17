@@ -91,6 +91,8 @@
 
 [中式英语纠错](https://www.businessweekly.com.tw/channel/englishlearning/0000000335) 
 
+[释义+例句+例句发音+对话](https://www.talkenglish.com/lessondetails.aspx?ALID=1088)
+
 ## 日常英语学习
 
 [NG 英文](https://www.hopenglish.com/tips) 地道英文，情景解释
