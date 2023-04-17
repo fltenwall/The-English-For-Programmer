@@ -91,7 +91,86 @@
 
 [中式英语纠错](https://www.businessweekly.com.tw/channel/englishlearning/0000000335) 
 
-[释义+例句+例句发音+对话](https://www.talkenglish.com/lessondetails.aspx?ALID=1088)
+## TalkEnglish
+
+[Top 2000 Vocabulary Words](https://www.talkenglish.com/vocabulary/top-2000-vocabulary.aspx)
+
+[Top 2000 Word Families](https://www.talkenglish.com/vocabulary/top-2000-word-families.aspx)
+
+[Top 1500 Nouns](https://www.talkenglish.com/vocabulary/top-1500-nouns.aspx)
+
+[Top 1000 Verbs](https://www.talkenglish.com/vocabulary/top-1000-verbs.aspx)
+
+[Top 500 Adjectives](https://www.talkenglish.com/vocabulary/top-500-adjectives.aspx)
+
+[Top 250 Adverbs](https://www.talkenglish.com/vocabulary/top-250-adverbs.aspx)
+
+[Top 60 Pronouns](https://www.talkenglish.com/vocabulary/top-60-pronouns.aspx)
+
+[Top 50 Prepositions](https://www.talkenglish.com/vocabulary/top-50-prepositions.aspx)
+
+[English Speaking Basics - Section I](https://www.talkenglish.com/speaking/basics/speaking_basics_i.aspx)
+
+[English Speaking Basics - Section II](https://www.talkenglish.com/speaking/basics/speaking_basics_ii.aspx)
+
+[English Speaking Basics - Section III](https://www.talkenglish.com/speaking/basics/speaking_basics_iii.aspx)
+
+[Basic English Listening Lessons](https://www.talkenglish.com/listening/listenbasic.aspx)
+
+[Intermediate English Listening Lessons](https://www.talkenglish.com/listening/listenintermediate.aspx)
+
+[Advanced English Listening Lessons](https://www.talkenglish.com/listening/listenadvanced.aspx)
+
+[Basics of English Grammar](https://www.talkenglish.com/grammar/grammar.aspx)
+
+[Regular English Lesson Categories](https://www.talkenglish.com/speaking/listregular.aspx)
+
+[Business English Lesson Categories](https://www.talkenglish.com/speaking/listbusiness.aspx)
+
+[Interview English Lesson Categories](https://www.talkenglish.com/speaking/listinterview.aspx)
+
+[Idioms and Phrases Lesson Categories](https://www.talkenglish.com/speaking/listidioms.aspx)
+
+[A List of all Lessons](https://www.talkenglish.com/lessonindex.aspx)
+
+## English Speaking Articles
+
+[5 Speaking Rules you need to know!](https://www.talkenglish.com/extralessons/speakingrules.aspx)
+
+[Information on Grammar pertaining to English Speaking](https://www.talkenglish.com/grammar/grammar-speaking.aspx)
+
+[Intonation and Speed of Speaking](https://www.talkenglish.com/extralessons/intonation.aspx)
+
+[Using Collocations to Learn English](https://www.talkenglish.com/how-to-use/collocations.aspx#)
+
+[Study Method](https://www.talkenglish.com/studymethod.aspx)
+
+## LearnEnglish 炼级英语
+
+[分级口语-视频情景](https://learnenglish.britishcouncil.org/skills/speaking)
+
+[分级语法](https://learnenglish.britishcouncil.org/grammar)
+
+[分级词汇](https://learnenglish.britishcouncil.org/vocabulary)
+
+[分级阅读](https://learnenglish.britishcouncil.org/skills/reading)
+
+[分级写作](https://learnenglish.britishcouncil.org/skills/writing)
+
+[分级听力](https://learnenglish.britishcouncil.org/skills/listening)
+
+[商务英语](https://learnenglish.britishcouncil.org/business-english)
+
+[通用英语](https://learnenglish.britishcouncil.org/general-english)
+
+## AI交流
+
+[Speak and Improve 在线AI交流问答](https://app.speakandimprove.com/) AI问答并给出口语改进建议 【鸡肋】
+
+## EnglishClub
+
+[EnglishClub](https://www.englishclub.com/)
+
 
 ## 日常英语学习
 
