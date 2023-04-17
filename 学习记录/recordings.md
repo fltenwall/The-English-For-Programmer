@@ -27,3 +27,11 @@
 
 
 #### 2023.4.17
+
+##### 输入：
+
+Reading:[Activating Prior Knowledge With English Language Learners](https://www.edutopia.org/article/activating-prior-knowledge-english-language-learners)
+
+##### 输出：
+
+[英语文章分析](https://github.com/fltenwall/The-English-For-Programmer/blob/main/%E6%AF%8F%E6%97%A5%E8%BE%93%E5%87%BA/input.md)

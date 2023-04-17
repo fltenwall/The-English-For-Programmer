@@ -5,11 +5,11 @@ centric a.
 
 block n.v.
 
----------------------2023.4.17---------------------------
+# 2023.4.17
 
 Reading:[Activating Prior Knowledge With English Language Learners](https://www.edutopia.org/article/activating-prior-knowledge-english-language-learners)
 
-# sentence
+## sentence
 
 **Students learn better when they first access what they already know—and this plays a big role in improving English language learners’ academic literacy.**
 
