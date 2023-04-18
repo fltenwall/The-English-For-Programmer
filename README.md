@@ -171,6 +171,78 @@
 
 [EnglishClub](https://www.englishclub.com/)
 
+## FREE Basic English Speaking Lessons
+[FREE Basic English Speaking Lessons](https://basicenglishspeaking.com/) 免费英语口语课程
+
+[75 Daily English Conversation Practice – Questions and Answers by Topic](https://basicenglishspeaking.com/daily-english-conversation-topics/)
+
+[3000 Most Common Words](https://basicenglishspeaking.com/3000-most-common-words/)
+
+[100 Common English Phrases and Sentence Patterns (With Dialogue)](https://basicenglishspeaking.com/100-common-phrases-and-sentence-patterns/)
+
+[50 Common English Expressions](https://basicenglishspeaking.com/common-expressions-english/)
+
+[181 Common Phrasal Verbs List – with Meanings and Example Sentences (audio lessons)](https://basicenglishspeaking.com/phrasal-verbs/)
+
+[102 Common English Idioms with Meaning and Examples](https://basicenglishspeaking.com/102-common-english-idioms/)
+
+[40 Basic English Grammar Rules With Example Sentences](https://basicenglishspeaking.com/basic-english-grammar-rules/)
+
+[How to Improve Your English Listening Skills?](https://basicenglishspeaking.com/improve-english-listening-skills/)
+
+[How to Speak English Fluently: 7 Golden Tips (For FAST result)](https://basicenglishspeaking.com/how-to-speak-english-fluently-7-tips/)
+
+[3 Steps to Stop Translating in Your Head and Start Thinking in English](https://basicenglishspeaking.com/3-steps-stop-translating-head-start-thinking-english/)
+
+
+## English-at-home
+
+[speaking](https://english-at-home.com/speaking/)
+
+[vocabulary](https://english-at-home.com/vocabulary/)
+
+[grammar](https://english-at-home.com/grammar/)
+
+[business](https://english-at-home.com/business/)
+
+[Get 120 Free English Lessons, Beginners to Advanced](https://english-at-home.com/lessons/)
+
+[Start Your 100% Free English Course Here](https://english-at-home.com/course/) 18周学习计划
+
+[blog](https://english-at-home.com/blog/) 英语学习博客 
+## USA Learns
+
+[Index](https://www.usalearns.org/LearnEnglish)
+
+## 
+
+[mondly](https://app.mondly.com/home)  场景英语，关卡解锁🔓 需付费
+
+## 英语游戏
+
+[GamesToLearnEnglish](https://www.gamestolearnenglish.com/) 词汇游戏
+
+[ESLGamesPlus](https://www.eslgamesplus.com/) 游戏大全，超多游戏
+
+[LearnEnglishKids](https://learnenglishkids.britishcouncil.org/fun-games/games) 分主题，词汇游戏
+
+[26 Best Games to Learn English While Having Fun](https://www.fluentu.com/blog/english/games-to-learn-english/#toc_7)
+
+## English Learning Resources
+
+[English Learning Resources](https://www.fluentu.com/blog/english/category/english-learning-resources/) 英语学习资源汇总
+
+
+
+## 英语文章
+
+[英孚海外版英语文章](https://www.ef.com/wwen/blog/language/topic/language-learning/)
+
+
+## 写英语学习的英语文章
+
+[How to speak English better in 10 easy steps](https://www.ef.com/wwen/blog/language/how-to-speak-english-better/)
+
 
 ## 日常英语学习
 
