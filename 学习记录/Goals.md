@@ -28,3 +28,11 @@
 #### one video in TED channel
 
 [How to learn any language in six months](https://www.youtube.com/watch?v=d0yGdNEWdn0) TED video
+
+#### The next day plan
+
+[R Programming Tutorial - Learn the Basics of Statistical Computing](https://www.youtube.com/watch?v=_V8eKsto3Ug) 1 video about 2h
+
+5 English Speaking Success channel videos
+
+2 TED channel videos
