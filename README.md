@@ -214,9 +214,21 @@
 
 [Index](https://www.usalearns.org/LearnEnglish)
 
-## 
+## 精品网站
 
 [mondly](https://app.mondly.com/home)  场景英语，关卡解锁🔓 需付费
+
+[LingQ](https://www.lingq.com/zh-cn/) 炼级之旅，闯关模式，主题学习，综合能力(免费可用)
+
+[vocaroo](https://vocaroo.com/) 录音服务，自动降噪
+
+[LyricsTraining](https://lyricstraining.com/) 学唱英文歌
+
+[YouGlish](https://youglish.com/) 查词/搭配，查询相关视频
+
+## 谷歌插件
+
+[Language Reactor](https://chrome.google.com/webstore/detail/language-reactor/hoombieeljmmljlkjmnheibnpciblicm?hl=en) 
 
 ## 英语游戏
 
@@ -256,7 +268,15 @@
 
 [hinative 英语问答-地道英文翻译](https://hinative.com/search/questions?utm_medium=referral&utm_source=hinative&utm_content=global_header_questions_show&language_id=22&q=%E6%99%9A%E4%B8%8A%E5%90%83%E4%BB%80%E4%B9%88&button=)
 
+## 英文新闻网站
 
+[ChinaDaily](https://www.chinadailyasia.com/)
+
+[GlobalTimes](https://www.globaltimes.cn/)
+
+[BBC](https://www.bbc.com/)
+
+[CNN](https://edition.cnn.com/)
 
 ## 每日英文表达积累
 

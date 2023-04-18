@@ -54,7 +54,7 @@ People learn poorer when they know nothing about the background-and this plays a
 
 eliciting, ekicit.v. When you elicit, you're bringing out a response of some sort.
 
-#### collections
+#### colloctions
 
 in order to
 
@@ -85,7 +85,7 @@ Learning programming by yourself means both depending on reading books about the
 
 proficient a. , *who are **proficient** in English*
 
-#### collections
+#### colloctions
 
 be proficient in, *who are proficient in English*
 
@@ -104,7 +104,7 @@ possess: To possess something is to have or own it. You can possess a physical o
 
 encounter:  come upon, as if by accident; meet with
 
-#### collections
+#### colloctions
 
 To go even further
 
@@ -128,7 +128,7 @@ facilitate: To facilitate means to make something easier. If your best friend is
 
 process: A process is a procedure, something you do in order to achieve a certain result. Some people try to carefully follow all the steps in a process. Other people just wing it.
 
-#### collections
+#### colloctions
 
 It’s up to ...
 
@@ -138,6 +138,13 @@ It's up to you, but I don't think we should bother him.
 #### sentences structure 
 
 *It’s up to us(what? what is it up to us?) to facilitate this process(how? how do this process) by developing relationships with our students(why? why do we develop relationships with our students?)so that we learn(what? what do we learn)what they already know and ensure(what? what do they already know and ensure?) that they feel comfortable(how? how do they fell comfortable?) sharing it.*
+
+
+
+
+
+
+
 
 
 

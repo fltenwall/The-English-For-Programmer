@@ -16,7 +16,7 @@ I want to withdraw 200 RMB from my deposit account.
 
 屁股 ass
 
-手指 finger
+手指 finger  fingertip
  
 手指甲 finger nail
 
@@ -831,7 +831,109 @@ I considered the work easy.
 
 The rabbit considered the carrot tasty.
 
+#### 小心玻璃
 
+Glass with care
+
+#### 中国烟草
+
+China Tobacco
+
+# 2023.4.18
+
+#### up v. 
+
+China's GDP **up** 4.5% in Q1.
+
+#### 仇恨言论 
+
+hate speech
+
+#### 插头n，插上v plug
+
+I went down on one knee to **plug**  in the vacuum  clearner.
+
+mobile internet
+
+adapter 适配器
+
+telephone plugs 电话插头🔌
+
+phone sockets 电话插座
+
+cable terminal 电缆终端
+
+lugs  手柄
+
+socket 插座
+
+#### 公共厕所
+
+public toilet
+
+#### 色情
+
+porn. 色情作品
+
+porno. a. 色情的
+
+pornograophic. a. 色情作品的
+
+pornography. n. 色情文学；黄书
+
+#### 让人恼怒
+
+It's annoying.
+
+He was **annoyed** to find himself going red.
+
+#### 脸红😳
+
+He was annoyed to **find himself going red**.
+
+Why is your face **burning like mad**?
+
+I always **blush** when I speak in public.
+
+I **blush** to think of what a fool I made of myself.
+
+#### 我不想打扰你
+ 
+I didn't want to trouble you.
+
+#### 我不喜欢那个颜色
+
+I hate that color.
+
+#### 除非太阳☀️打西边出来了
+
+**Once in a blue moon** I drive my wife's car.
+
+#### 我在👀xx
+
+on: touching a surface or platform
+
+I'm on the Internet.
+
+I'm on the phone.
+
+#### at,on,in
+
+**At** 6 o'clock, **on** Monday, **in** July
+
+**At** 221 Baker Street, **on** Baker Street, **in** London
+
+#### 我饿了
+
+I'm getting hungry.
+
+#### 我想你明白了
+
+I think you get the idea.
+
+#### 我没想过这个问题
+
+I haven't thought about that.
 
 
 
