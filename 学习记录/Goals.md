@@ -36,3 +36,24 @@
 5 English Speaking Success channel videos
 
 2 TED channel videos
+
+###  Wednesday, 18th of April
+
+Immerse yourself in natural English
+
+[5 Smart Ways to Improve your English Speaking Skills](https://www.youtube.com/watch?v=MdUkC7Vz3rg)
+
+[Speak English Like a Native Speaker in 20 Minutes](https://www.youtube.com/watch?v=Whetyw1aUyU)
+
+[Do THIS to Improve your Speaking and Listening Skills](https://www.youtube.com/watch?v=52MSH5pmHk0)
+
+[The first 20 hours -- how to learn anything](https://www.youtube.com/watch?v=5MgBikgcWnY) TED
+
+[English Small Talk: Start Conversations Easily](https://www.youtube.com/watch?v=H1em6OaGEYQ)
+
+[https://www.youtube.com/watch?v=H1em6OaGEYQ](https://www.youtube.com/watch?v=Yr_poW-KK1Q) TED
+
+[7 ways to Improve your Communication Skills in English](https://www.youtube.com/watch?v=aQcj7K33MX4)
+
+
+

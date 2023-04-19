@@ -935,6 +935,16 @@ I think you get the idea.
 
 I haven't thought about that.
 
+# 2023.4.19
+
+#### 冷笑话
+
+dry comedy
+
+#### 什么事情让你兴奋？
+
+What's turns you up? What's light you up ？
+
 
 
 
