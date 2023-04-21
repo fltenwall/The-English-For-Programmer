@@ -66,11 +66,11 @@ Immerse yourself in natural English
 
 ### Friday , 21th of April 
 
-[R Programming Tutorial - Learn the Basics of Statistical Computing](https://www.youtube.com/watch?v=_V8eKsto3Ug) 1 video about 2h
+[R Programming Tutorial - Learn the Basics of Statistical Computing](https://www.youtube.com/watch?v=_V8eKsto3Ug) 1 video about 2h ❌
 
-3 English Speaking Success channel videos
+3 English Speaking Success channel videos  ✅
 
-2 TED channel videos
+2 TED channel videos ✅
 
 [Being polite in English: Useful expressions](https://www.youtube.com/watch?v=ii3Lkha7Hvw)
 

@@ -979,6 +979,14 @@ This is a friend of mine who I **look up to**.
 
 **I feel that** no matter what I choose to become , I believe I can change the world .
 
+#### 市长
+
+the **Mayor** of London
+
+#### 喝醉
+
+“Tired and emotional” is a **code word** for **being drunk**.
+
 
 
 
