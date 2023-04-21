@@ -31,11 +31,11 @@
 
 #### The next day plan
 
-[R Programming Tutorial - Learn the Basics of Statistical Computing](https://www.youtube.com/watch?v=_V8eKsto3Ug) 1 video about 2h
+[R Programming Tutorial - Learn the Basics of Statistical Computing](https://www.youtube.com/watch?v=_V8eKsto3Ug) 1 video about 2h ❌
 
-5 English Speaking Success channel videos
+5 English Speaking Success channel videos ✅
 
-2 TED channel videos
+2 TED channel videos  ✅
 
 ###  Wednesday, 18th of April
 
@@ -56,4 +56,28 @@ Immerse yourself in natural English
 [7 ways to Improve your Communication Skills in English](https://www.youtube.com/watch?v=aQcj7K33MX4)
 
 
+###  Thursday , 18th of April
 
+[R Programming Tutorial - Learn the Basics of Statistical Computing](https://www.youtube.com/watch?v=_V8eKsto3Ug) 1 video about 2h ❌
+
+5 English Speaking Success channel videos ❌
+
+2 TED channel videos ❌
+
+### Friday , 21th of April 
+
+[R Programming Tutorial - Learn the Basics of Statistical Computing](https://www.youtube.com/watch?v=_V8eKsto3Ug) 1 video about 2h
+
+3 English Speaking Success channel videos
+
+2 TED channel videos
+
+[Being polite in English: Useful expressions](https://www.youtube.com/watch?v=ii3Lkha7Hvw)
+
+[5 Tips to Increase Your CONFIDENCE in English](https://www.youtube.com/watch?v=WeIc_f4Czys)
+
+[20 interesting things British people say (and what they really mean!)](https://www.youtube.com/watch?v=SAqq3crdQ9Q)
+
+[My philosophy for a happy life | Sam Berns ](https://www.youtube.com/watch?v=36m1o-tM05g) TED
+
+[Life's short, make the most of it | Michiel Vandeweert](https://www.youtube.com/watch?v=lFZvLeMbJ_U) TED

@@ -945,6 +945,40 @@ dry comedy
 
 What's turns you up? What's light you up ？
 
+# 2023.4.21
+
+#### 终生会员
+
+lifetime membership
+
+####  风筝 
+
+kite
+
+#### 我不会一直想这些
+
+I don't **think about** these obstacles **all the time**.
+
+#### 对我来说，有这么几个方面
+
+For me, there are 3 **aspects** to this philosophy.
+
+#### 我能接受...
+
+**I'm ok with** what I ultimately can't do.
+
+#### ...是不是太难了？
+
+**Isn't hard** living with the disease?
+
+#### 我敬仰的人
+
+This is a friend of mine who I **look up to**.
+
+#### 我觉得无论怎样...
+
+**I feel that** no matter what I choose to become , I believe I can change the world .
+
 
 
 
