@@ -3,13 +3,13 @@
 
 ## The thrid week(16-22)
 
-[R Programming Tutorial - Learn the Basics of Statistical Computing](https://www.youtube.com/watch?v=_V8eKsto3Ug) 1 video about 2h
+[R Programming Tutorial - Learn the Basics of Statistical Computing](https://www.youtube.com/watch?v=_V8eKsto3Ug) 1 video about 2h ❌
 
-[Data Analysis with Python Course - Numpy, Pandas, Data Visualization](https://www.youtube.com/watch?v=GPVsHOlRBBI)  10h
+[Data Analysis with Python Course - Numpy, Pandas, Data Visualization](https://www.youtube.com/watch?v=GPVsHOlRBBI)  10h ❌
 
-[Speak Better English](https://www.youtube.com/@EnglishSpeakingSuccess) 15 videos
+[Speak Better English](https://www.youtube.com/@EnglishSpeakingSuccess) 15 videos ✅
 
-10 TED Speaking Videos
+10 TED Speaking Videos ❌ 5/10
 
 ###  Tuesday, 17th of April
 
@@ -81,3 +81,15 @@ Immerse yourself in natural English
 [My philosophy for a happy life | Sam Berns ](https://www.youtube.com/watch?v=36m1o-tM05g) TED
 
 [Life's short, make the most of it | Michiel Vandeweert](https://www.youtube.com/watch?v=lFZvLeMbJ_U) TED
+
+## The Fourth week(23-29)
+
+[Data Analysis with Python Course - Numpy, Pandas, Data Visualization](https://www.youtube.com/watch?v=GPVsHOlRBBI)  10h 
+
+[Speak Better English](https://www.youtube.com/playlist?list=PLdz6EbLJcjJ9ixS2JC_DDFekyC_jTeVLL) **review** 13 videos
+
+[Keith's Grammar Guides for IELTS Speaking](https://www.youtube.com/playlist?list=PLdz6EbLJcjJ9o-9ttcV-8vtRu0gdww4Tj) 9 videos
+
+10 TED Speaking Videos 
+
+### Monday, 24th of April
