@@ -84,7 +84,9 @@ Immerse yourself in natural English
 
 ## The Fourth week(23-29)
 
-[Data Analysis with Python Course - Numpy, Pandas, Data Visualization](https://www.youtube.com/watch?v=GPVsHOlRBBI)  10h 
+[Data Analysis with Python - Full Course for Beginners (Numpy, Pandas, Matplotlib, Seaborn)](https://www.youtube.com/watch?v=r-uOLxNrNk8)
+
+4.5h
 
 [Speak Better English](https://www.youtube.com/playlist?list=PLdz6EbLJcjJ9ixS2JC_DDFekyC_jTeVLL) **review** 13 videos
 
@@ -93,3 +95,8 @@ Immerse yourself in natural English
 10 TED Speaking Videos 
 
 ### Monday, 24th of April
+
+[Data Analysis with Python - Full Course for Beginners (Numpy, Pandas, Matplotlib, Seaborn)](https://www.youtube.com/watch?v=r-uOLxNrNk8) 37min 
+
+[Smart ways to use the PRESENT SIMPLE and CONTINUOUS in IELTS Speaking | Keith's Grammar Guides](https://www.youtube.com/watch?v=FmIvoj4MIHI)
+

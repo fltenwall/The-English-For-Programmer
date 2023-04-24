@@ -987,6 +987,24 @@ the **Mayor** of London
 
 “Tired and emotional” is a **code word** for **being drunk**.
 
+# Mon Apr 24, 2023
+
+#### 好可怜 pitiful
+
+How a pitiful .
+
+#### 开始吧
+
+Let's **get down to the business** = Let's start.
+
+#### 我每天早上都在公园遛弯
+
+I **walk around** the park **most morings**.
+
+#### 小便
+
+I just took a leak.
+
 
 
 
