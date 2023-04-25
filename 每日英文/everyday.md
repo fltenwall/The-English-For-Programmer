@@ -1,5 +1,6 @@
 从不畏惧说错，从不畏惧成为笑话，只要更多进步和改善。
 
+# 2023.4.11
 #### 银行🏦取钱【2023-4-11】
 
 取钱 withdraw your money / withdraw some money
@@ -138,6 +139,8 @@ Good job!
 Nice work!
 
 Good work!
+
+# 2023.4.12
 
 #### 你看起来很累【2023-4-12】
 
@@ -587,6 +590,8 @@ Maybe some other time.
 Take a rain check.
 
 Thank you, but I have to take a rain check on your invitation.
+
+# 2013.4.13
 
 #### 节约用水/纸【2023-4-13】
 
