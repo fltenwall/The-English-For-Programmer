@@ -1005,7 +1005,7 @@ I **walk around** the park **most morings**.
 
 I just took a leak.
 
-# 2023.4.25
+# 2023.4.24
 
 ##### 对...了解的多不多？
 
@@ -1013,11 +1013,40 @@ Do not translate it to Chinese like more or less , just use 'do  you know much a
 
 **Do you know much about** plants?
 
+#### 唠叨 nag
 
+She's always **nagging** about it or **going** on about it.
 
+nag = complaint 
 
+go on about it = say  many times
 
+# 2023.4.25
 
+#### 触动了我 blew（blow） my mind
 
+Then you blew my mind 你吹着我的心
 
+You just blew my mind 你让我大开眼界
 
+#### 太.../世界上最... out of this world
+
+This food **out of this world**. I've never **had** better beef.
+
+I think **the flavor of fresh strawberries** is **out of this world**.
+
+#### 每周五都有课 have class
+
+I **studies** computer science at school , we **had** class every Friday.
+
+#### 我期望...  look forward to 
+
+I **was looking** forward to **attend the reference** on education 
+
+#### 我参加了... take part in 
+
+I **was taking part in** the school sports day
+
+#### 经常熬夜
+
+I **was always studing** late into the night , **burning the midnight oil**!

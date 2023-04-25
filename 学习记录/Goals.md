@@ -100,6 +100,10 @@ Immerse yourself in natural English
 
 [Smart ways to use the PRESENT SIMPLE and CONTINUOUS in IELTS Speaking | Keith's Grammar Guides](https://www.youtube.com/watch?v=FmIvoj4MIHI)
 
+note: [01.md](https://github.com/fltenwall/The-English-For-Programmer/tree/main/900/Notes)
+
+script:[01.md](https://github.com/fltenwall/The-English-For-Programmer/blob/main/900/Scripts/01%20Smart%20ways%20to%20use%20the%20PRESENT%20SIMPLE%20and%20CONTINUOUS%20in%20IELTS%20Speaking.md)
+
 ### Tuesday, 25th of April 
 
 plan : 
@@ -115,6 +119,13 @@ plan :
 5.Memorizing one script of TED video
 
 6.To learn social courses with Textbook of American English For Primary Students.
+
+7.A piece of news for reading 
+
+[Tips for using PRESENT PERFECT Tense in IELTS Speaking | Keith's Grammar Guides](https://www.youtube.com/watch?v=HfmTfekKt8g)
+
+[Tips for using PAST Tenses in IELTS Speaking | Keith's Grammar Guides](https://www.youtube.com/watch?v=0A4sjPj0LZo)
+
 
 
 
