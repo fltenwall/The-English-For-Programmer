@@ -132,9 +132,14 @@ script:[01.md](https://github.com/fltenwall/The-English-For-Programmer/blob/main
 
 #### Speaking
 
+
+#### Notes📒
+
+[note:01 Smart ways to use the PRESENT SIMPLE and CONTINUOUS in IELTS Speaking.md📒](https://github.com/fltenwall/The-English-For-Programmer/tree/main/900/Notes)
+
 # Tuesday, 25th of April 
 
-## 输入：
+### 输入：
 
 #### Listening and Speaking :
 
@@ -148,19 +153,19 @@ script:[01.md](https://github.com/fltenwall/The-English-For-Programmer/blob/main
 #### Reading 
 #### Writing 
 
-#### Notes
+## 输出：
+
+#### Writing
+
+#### Speaking
+
+#### Notes📒
 
 [note:Tips for using PRESENT PERFECT Tense in IELTS Speaking📒](https://github.com/fltenwall/The-English-For-Programmer/blob/main/900/Notes/02%20Tips%20for%20using%20PRESENT%20PERFECT%20Tense%20in%20IELTS%20Speaking.md)
 
 [note:Tips for using PAST Tenses in IELTS Speaking📒](https://github.com/fltenwall/The-English-For-Programmer/blob/main/900/Notes/03%20Tips%20for%20using%20PAST%20Tenses%20in%20IELTS%20Speaking.md)
 
 [note:Top 5 IELTS Speaking Grammar Mistakes: and How to Fix Them📒](https://github.com/fltenwall/The-English-For-Programmer/blob/main/900/Notes/04%20Top%205%20IELTS%20Speaking%20Grammar%20Mistakes.md)
-
-## 输出：
-
-#### Writing
-
-#### Speaking
 
 
 ----------------------------------------
@@ -180,3 +185,5 @@ script:[01.md](https://github.com/fltenwall/The-English-For-Programmer/blob/main
 #### Writing
 
 #### Speaking
+
+#### Notes📒
