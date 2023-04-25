@@ -1005,6 +1005,13 @@ I **walk around** the park **most morings**.
 
 I just took a leak.
 
+# 2023.4.25
+
+##### 对...了解的多不多？
+
+Do not translate it to Chinese like more or less , just use 'do  you know much about ...'
+
+**Do you know much about** plants?
 
 
 

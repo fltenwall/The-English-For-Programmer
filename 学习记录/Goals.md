@@ -100,3 +100,23 @@ Immerse yourself in natural English
 
 [Smart ways to use the PRESENT SIMPLE and CONTINUOUS in IELTS Speaking | Keith's Grammar Guides](https://www.youtube.com/watch?v=FmIvoj4MIHI)
 
+### Tuesday, 25th of April 
+
+plan : 
+
+1.Keith's Grammar Guides for IELTS Speaking, 3 video 
+
+2.learning how to use scikit-learn
+
+3.To watch 2 TED videos 
+
+4.Riewing 2 videos in the channel of Speak Better English
+
+5.Memorizing one script of TED video
+
+6.To learn social courses with Textbook of American English For Primary Students.
+
+
+
+
+
