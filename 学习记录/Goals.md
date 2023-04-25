@@ -124,13 +124,15 @@ plan :
 
 [Tips for using PRESENT PERFECT Tense in IELTS Speaking | Keith's Grammar Guides](https://www.youtube.com/watch?v=HfmTfekKt8g)
 
-note📒:
+[note📒](https://github.com/fltenwall/The-English-For-Programmer/blob/main/900/Notes/02%20Tips%20for%20using%20PRESENT%20PERFECT%20Tense%20in%20IELTS%20Speaking.md)
 
 [Tips for using PAST Tenses in IELTS Speaking | Keith's Grammar Guides](https://www.youtube.com/watch?v=0A4sjPj0LZo)
 
+[note📒](https://github.com/fltenwall/The-English-For-Programmer/blob/main/900/Notes/03%20Tips%20for%20using%20PAST%20Tenses%20in%20IELTS%20Speaking.md)
+
 [Top 5 IELTS Speaking Grammar Mistakes: and How to Fix Them | Keith's Grammar Guides](https://www.youtube.com/watch?v=b5ltukSgXRs)
 
-
+[note📒](https://github.com/fltenwall/The-English-For-Programmer/blob/main/900/Notes/04%20Top%205%20IELTS%20Speaking%20Grammar%20Mistakes.md)
 
 
 
