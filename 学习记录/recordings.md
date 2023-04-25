@@ -15,20 +15,20 @@
 
 #### 2023.4.13
 
-##### 输入：
+##### Input
 
 [The lecture of ChatGPT in PolyU](https://github.com/fltenwall/The-English-For-Programmer/blob/main/%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9B%B8%E5%85%B3%E8%8B%B1%E8%AF%AD/ChatGPT.md)
 
 名词相关的语法
 
-##### 输出：
+##### Output
 
 [程序员的自我介绍](https://github.com/fltenwall/The-English-For-Programmer/blob/main/%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9B%B8%E5%85%B3%E8%8B%B1%E8%AF%AD/%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D.md)
 
 
 #### 2023.4.17
 
-##### 输入：
+##### Input
 
 Reading:[Activating Prior Knowledge With English Language Learners](https://www.edutopia.org/article/activating-prior-knowledge-english-language-learners)
 
@@ -46,13 +46,13 @@ Listening and Speaking :
 
 [How to learn any language in six months](https://www.youtube.com/watch?v=d0yGdNEWdn0) TED video
 
-##### 输出：
+##### Output
 
 [英语文章分析](https://github.com/fltenwall/The-English-For-Programmer/blob/main/%E6%AF%8F%E6%97%A5%E8%BE%93%E5%87%BA/input.md)
 
 # 2023.4.18
 
-## 输入：
+## Input
 #### Listening and Speaking :
 
 [5 Smart Ways to Improve your English Speaking Skills](https://www.youtube.com/watch?v=MdUkC7Vz3rg)
@@ -74,7 +74,7 @@ Listening and Speaking :
 
 #### Writing 
 
-## 输出：
+## Output
 
 #### Writing
 
@@ -82,7 +82,7 @@ Listening and Speaking :
 
 # Friday , 21th of April 
 
-## 输入：
+## Input
 
 #### Listening and Speaking :
 
@@ -101,7 +101,7 @@ Listening and Speaking :
 
 #### Writing 
 
-## 输出：
+## Output
 
 #### Writing
 
@@ -109,7 +109,7 @@ Listening and Speaking :
 
 # Monday, 24th of April
 
-## 输入：
+## Input
 
 #### Listening and Speaking :
 
@@ -126,7 +126,7 @@ script:[01.md](https://github.com/fltenwall/The-English-For-Programmer/blob/main
 
 #### Writing 
 
-## 输出：
+## Output
 
 #### Writing
 
@@ -139,7 +139,7 @@ script:[01.md](https://github.com/fltenwall/The-English-For-Programmer/blob/main
 
 # Tuesday, 25th of April 
 
-## 输入：
+## Input
 
 #### Listening and Speaking :
 
@@ -153,7 +153,7 @@ script:[01.md](https://github.com/fltenwall/The-English-For-Programmer/blob/main
 #### Reading 
 #### Writing 
 
-## 输出：
+## Output
 
 #### Writing
 
@@ -171,7 +171,7 @@ script:[01.md](https://github.com/fltenwall/The-English-For-Programmer/blob/main
 ----------------------------------------
 # Weekday , xxth of Month 
 
-## 输入：
+## Input
 
 #### Listening and Speaking :
 
@@ -180,7 +180,7 @@ script:[01.md](https://github.com/fltenwall/The-English-For-Programmer/blob/main
 
 #### Writing 
 
-## 输出：
+## Output
 
 #### Writing
 
