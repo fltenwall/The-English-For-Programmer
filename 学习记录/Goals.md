@@ -108,9 +108,9 @@ script:[01.md](https://github.com/fltenwall/The-English-For-Programmer/blob/main
 
 plan : 
 
-1.Keith's Grammar Guides for IELTS Speaking, 3 video 
+1.Keith's Grammar Guides for IELTS Speaking, 3 video ✅
 
-2.learning how to use scikit-learn
+2.learning how to use scikit-learn ✅
 
 3.To watch 2 TED videos 
 
@@ -124,7 +124,13 @@ plan :
 
 [Tips for using PRESENT PERFECT Tense in IELTS Speaking | Keith's Grammar Guides](https://www.youtube.com/watch?v=HfmTfekKt8g)
 
+note📒:
+
 [Tips for using PAST Tenses in IELTS Speaking | Keith's Grammar Guides](https://www.youtube.com/watch?v=0A4sjPj0LZo)
+
+[Top 5 IELTS Speaking Grammar Mistakes: and How to Fix Them | Keith's Grammar Guides](https://www.youtube.com/watch?v=b5ltukSgXRs)
+
+
 
 
 

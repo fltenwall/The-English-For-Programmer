@@ -1050,3 +1050,15 @@ I **was taking part in** the school sports day
 #### 经常熬夜
 
 I **was always studing** late into the night , **burning the midnight oil**!
+
+#### 钉钉子 hit a nail
+
+When, for instance, we **hit a nail with a hammer**, we expect the nail to move.
+   
+比如, 当我们用锤子敲打钉子时, 我们能预知钉子要移动.
+
+#### 如果明天... what if...
+
+-**What if** it rains tomorrow ?
+
+-**If it rains** tomorrow , I **will take** my umbrella!
