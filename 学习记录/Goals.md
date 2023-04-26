@@ -147,11 +147,11 @@ plan :
 
 [10 Smart Ways to Talk about the Future](https://www.youtube.com/watch?v=g1jGwDuXaF8)
 
-[note📒]()
+[note📒](https://github.com/fltenwall/The-English-For-Programmer/blob/main/900/Notes/05%2010%20Smart%20Ways%20to%20Talk%20about%20the%20Future.md)
 
 [How to Compare and Contrast: Phrases, Connectors and Idioms](https://www.youtube.com/watch?v=V8lKfgtCzME)
 
-[note📒]()
+[note📒](https://github.com/fltenwall/The-English-For-Programmer/blob/main/900/Notes/06%20Compare%20and%20Contrast%20in%20IELTS%20Speaking%20.md)
 
 
 
