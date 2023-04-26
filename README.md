@@ -174,6 +174,26 @@
 
 [通用英语](https://learnenglish.britishcouncil.org/general-english)
 
+[英语拼词游戏 Wordshake](https://learnenglish.britishcouncil.org/vocabulary/vocabulary-games/wordshake) 三分钟内看你从固定字母表中能拼出多少个单词
+
+[英语拼词游戏 SushiSpell](https://learnenglish.britishcouncil.org/vocabulary/vocabulary-games/sushi-spell) 两分钟内看你能拼出多少个单词
+
+[视频专区](https://learnenglish.britishcouncil.org/general-english/video-zone)
+
+[音频专区](https://learnenglish.britishcouncil.org/general-english/audio-zone)
+
+[杂志专区](https://learnenglish.britishcouncil.org/general-english/magazine-zone)
+
+[故事专区](https://learnenglish.britishcouncil.org/general-english/story-zone)
+
+[音频系列](https://learnenglish.britishcouncil.org/general-english/audio-series)
+
+[视频系列](https://learnenglish.britishcouncil.org/general-english/video-series)
+
+[英语学习app推荐](https://learnenglish.britishcouncil.org/apps)
+
+[学习社区](https://learnenglish.britishcouncil.org/learning-hub)
+
 ## AI交流
 
 [Speak and Improve 在线AI交流问答](https://app.speakandimprove.com/) AI问答并给出口语改进建议 【鸡肋】
@@ -303,6 +323,8 @@
 [2023.4月目标清单](https://github.com/fltenwall/The-English-For-Programmer/blob/main/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/Goals.md)
 
 [2023.4月学习记录](https://github.com/fltenwall/The-English-For-Programmer/blob/main/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/recordings.md)
+
+[每天要看的内容]()
 
 
 
