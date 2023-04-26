@@ -1067,3 +1067,40 @@ When, for instance, we **hit a nail with a hammer**, we expect the nail to move.
 -**What if** it rains tomorrow ?
 
 -**If it rains** tomorrow , I **will take** my umbrella!
+
+# 2023.4.26
+#### 居家工作更多
+
+we will work **from home a lot more**
+
+#### 我下周要到哪里去
+
+I should **get to London** *by* 10am Wednesday morning.
+
+#### 如果有时间我就做
+
+If there's enough time , I will do that.
+
+#### 在今天结束之前，我要做完工作
+
+**By the end of today**, I **will have finished** my work.
+
+#### 脑袋都要炸了
+
+Altogether 10 ways to express the future - this is going to **blow your mind**
+
+#### 说到车，最牛逼的两个品牌是奥迪和宝马
+
+When it comes to cars, **two of the most famous** brands are  Audi and BMW, they are petty much alike.
+
+#### 大学要比高中高好几个层次
+
+University is **several levels above high school**
+
+#### 效果(effect)更好
+
+The **effect** will be **far better than** asking them to **memorise books** on building vocabulary.
+
+#### 这周很忙，但是周末有空
+
+I am really during the week, but on the weekend , conversely, I have lots of free time .

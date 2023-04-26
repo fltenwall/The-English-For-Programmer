@@ -112,15 +112,15 @@ plan :
 
 2.learning how to use scikit-learn ✅
 
-3.To watch 2 TED videos 
+3.To watch 2 TED videos ❌
 
-4.Riewing 2 videos in the channel of Speak Better English
+4.Riewing 2 videos in the channel of Speak Better English  ❌
 
-5.Memorizing one script of TED video
+5.Memorizing one script of TED video  ❌
 
-6.To learn social courses with Textbook of American English For Primary Students.
+6.To learn social courses with Textbook of American English For Primary Students.❌
 
-7.A piece of news for reading 
+7.A piece of news for reading ❌
 
 [Tips for using PRESENT PERFECT Tense in IELTS Speaking | Keith's Grammar Guides](https://www.youtube.com/watch?v=HfmTfekKt8g)
 
@@ -134,6 +134,24 @@ plan :
 
 [note📒](https://github.com/fltenwall/The-English-For-Programmer/blob/main/900/Notes/04%20Top%205%20IELTS%20Speaking%20Grammar%20Mistakes.md)
 
+
+### Tuesday, 26th of April 
+
+plan : 
+
+1.Keith's Grammar Guides for IELTS Speaking, 2 video
+
+2.To watch 1 TED video
+
+3.To learn social courses with Textbook of American English For Primary Students.
+
+[10 Smart Ways to Talk about the Future](https://www.youtube.com/watch?v=g1jGwDuXaF8)
+
+[note📒]()
+
+[How to Compare and Contrast: Phrases, Connectors and Idioms](https://www.youtube.com/watch?v=V8lKfgtCzME)
+
+[note📒]()
 
 
 
