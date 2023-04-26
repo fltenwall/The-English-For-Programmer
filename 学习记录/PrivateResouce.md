@@ -5,3 +5,7 @@
 
 [EnglishSpeakingSuccess](https://www.youtube.com/@EnglishSpeakingSuccess)
 
+[english-at-home](https://english-at-home.com/course/)
+
+[lyricstraining](https://lyricstraining.com/)
+
