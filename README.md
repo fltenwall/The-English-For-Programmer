@@ -259,7 +259,7 @@
 
 ## 谷歌插件
 
-[Language Reactor](https://chrome.google.com/webstore/detail/language-reactor/hoombieeljmmljlkjmnheibnpciblicm?hl=en) 
+[Language Reactor](https://chrome.google.com/webstore/detail/language-reactor/hoombieeljmmljlkjmnheibnpciblicm?hl=en) 英文字幕
 
 ## 英语游戏
 

@@ -167,7 +167,35 @@ script:[01.md](https://github.com/fltenwall/The-English-For-Programmer/blob/main
 
 [note:Top 5 IELTS Speaking Grammar Mistakes: and How to Fix Them📒](https://github.com/fltenwall/The-English-For-Programmer/blob/main/900/Notes/04%20Top%205%20IELTS%20Speaking%20Grammar%20Mistakes.md)
 
+# Wednesday , 26 of Aprial 
 
+## Input
+
+#### Listening and Speaking :
+
+[10 Smart Ways to Talk about the Future](https://www.youtube.com/watch?v=g1jGwDuXaF8)
+
+
+
+[How to Compare and Contrast: Phrases, Connectors and Idioms](https://www.youtube.com/watch?v=V8lKfgtCzME)
+
+
+#### Reading 
+#### Writing 
+
+[A message to say you're late](https://learnenglish.britishcouncil.org/skills/writing/a1-writing/message-say-youre-late)
+
+## Output
+
+#### Writing
+
+#### Speaking
+
+#### Notes📒
+
+[note:10 Smart Ways to Talk about the Future📒](https://github.com/fltenwall/The-English-For-Programmer/blob/main/900/Notes/05%2010%20Smart%20Ways%20to%20Talk%20about%20the%20Future.md)
+
+[note:How to Compare and Contrast: Phrases, Connectors and Idioms📒](https://github.com/fltenwall/The-English-For-Programmer/blob/main/900/Notes/06%20Compare%20and%20Contrast%20in%20IELTS%20Speaking%20.md)
 ----------------------------------------
 # Weekday , xxth of Month 
 

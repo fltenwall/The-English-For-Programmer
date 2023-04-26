@@ -139,9 +139,9 @@ plan :
 
 plan : 
 
-1.Keith's Grammar Guides for IELTS Speaking, 2 video
+1.Keith's Grammar Guides for IELTS Speaking, 2 video  ✅
 
-2.To watch 1 TED video
+2.To watch 1 TED video ✅
 
 3.To learn social courses with Textbook of American English For Primary Students.
 
