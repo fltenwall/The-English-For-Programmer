@@ -9,3 +9,7 @@
 
 [lyricstraining](https://lyricstraining.com/)
 
+[chinadailyasia](https://www.chinadailyasia.com/)
+
+[BBC](https://www.bbc.com/)
+
