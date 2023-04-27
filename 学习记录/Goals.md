@@ -143,7 +143,7 @@ plan :
 
 2.To watch 1 TED video ✅
 
-3.To learn social courses with Textbook of American English For Primary Students.
+3.To learn social courses with Textbook of American English For Primary Students. ❌
 
 [10 Smart Ways to Talk about the Future](https://www.youtube.com/watch?v=g1jGwDuXaF8)
 
@@ -152,6 +152,26 @@ plan :
 [How to Compare and Contrast: Phrases, Connectors and Idioms](https://www.youtube.com/watch?v=V8lKfgtCzME)
 
 [note📒](https://github.com/fltenwall/The-English-For-Programmer/blob/main/900/Notes/06%20Compare%20and%20Contrast%20in%20IELTS%20Speaking%20.md)
+
+### Tuesday, 26th of April 
+
+plan : 
+
+1.Keith's Grammar Guides for IELTS Speaking, 2 video  ✅
+
+2.To watch 1 TED video  ✅ 
+
+3.To learn social courses with Textbook of American English For Primary Students. 
+
+[Start Training Today to THINK IN ENGLISH!](https://www.youtube.com/watch?v=SJOnhWiJArM)
+
+[How to Increase Vocabulary - Studying English Vocabulary](https://www.youtube.com/watch?v=SIojtnMplHc)
+
+[Complex Sentences for IELTS Speaking](https://www.youtube.com/watch?v=HISR0P-y3x4)
+
+[Avoid these COMMON grammar MISTAKES when speaking English](https://www.youtube.com/watch?v=nw0X025a2nA)
+
+[7 Ways to Make a Conversation With Anyone](https://www.youtube.com/watch?v=F4Zu5ZZAG7I) TED
 
 
 

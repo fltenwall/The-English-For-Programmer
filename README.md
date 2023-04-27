@@ -257,6 +257,10 @@
 
 [YouGlish](https://youglish.com/) 查词/搭配，查询相关视频
 
+[LearnEnglishWithTVSeries](https://www.youtube.com/@LearnEnglishWithTVSeries) 油管上的看电影学英语
+
+[RealLifeEnglish1](https://www.youtube.com/@RealLifeEnglish1)
+
 ## 谷歌插件
 
 [Language Reactor](https://chrome.google.com/webstore/detail/language-reactor/hoombieeljmmljlkjmnheibnpciblicm?hl=en) 英文字幕

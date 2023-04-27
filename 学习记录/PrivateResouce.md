@@ -13,3 +13,13 @@
 
 [BBC](https://www.bbc.com/)
 
+[LearnEnglishWithTVSeries](https://www.youtube.com/@LearnEnglishWithTVSeries)
+
+[Speak English With Vanessa](https://www.youtube.com/@SpeakEnglishWithVanessa)
+
+[RealLifeEnglish1](https://www.youtube.com/@RealLifeEnglish1)
+
+[Rachel's English](https://www.youtube.com/@rachelsenglish)
+
+[YouGlish](https://youglish.com/) 查词/搭配，查询相关用词视频
+
