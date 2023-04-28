@@ -153,7 +153,7 @@ plan :
 
 [note📒](https://github.com/fltenwall/The-English-For-Programmer/blob/main/900/Notes/06%20Compare%20and%20Contrast%20in%20IELTS%20Speaking%20.md)
 
-### Tuesday, 26th of April 
+### Wednesday, 26th of April 
 
 plan : 
 
@@ -161,7 +161,7 @@ plan :
 
 2.To watch 1 TED video  ✅ 
 
-3.To learn social courses with Textbook of American English For Primary Students. 
+3.To learn social courses with Textbook of American English For Primary Students. 1/2
 
 [Start Training Today to THINK IN ENGLISH!](https://www.youtube.com/watch?v=SJOnhWiJArM)
 
@@ -173,7 +173,14 @@ plan :
 
 [7 Ways to Make a Conversation With Anyone](https://www.youtube.com/watch?v=F4Zu5ZZAG7I) TED
 
+### Tuesday, 27th of April 
 
+[American textbooks reading 01-Family and home](https://www.bilibili.com/video/BV1G14y1t7uH/?spm_id_from=333.788.top_right_bar_window_history.content.click&vd_source=29f1413980f493b68d14f7176e7144a3)
 
+[English for kins 01](https://www.bilibili.com/video/BV1t44y1h719/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=29f1413980f493b68d14f7176e7144a3)
 
+### Friday, 27th of April 
 
+[Crazily Speak  English(1-10)](https://www.bilibili.com/video/BV1SJ411N7mZ/?p=10&spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=29f1413980f493b68d14f7176e7144a3)
+
+[note📒]()
