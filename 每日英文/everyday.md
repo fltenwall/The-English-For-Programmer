@@ -1104,3 +1104,45 @@ The **effect** will be **far better than** asking them to **memorise books** on 
 #### 这周很忙，但是周末有空
 
 I am really during the week, but on the weekend , conversely, I have lots of free time .
+
+# 2023.5.2
+
+#### 累死我了
+
+I'm exhausted. ~ I'm dead tired. ~ I'm beat. ~  I'm dying here.
+
+#### 我困了😴
+
+I'm sleepy.
+
+#### 饿了
+
+I'm starving(要饿死了).
+
+I'm hungry.饿了
+
+I'm thirsty.渴了
+
+#### 今天是不是很忙
+
+-Did you have a tough day?
+
+-Yes, I did. I had lots of work to do throughout the day.
+
+#### 帮了我这么多，怎么感谢你呢
+
+-You've done so much for me. How can I thank all of you？
+
+-It was really nothing.
+
+#### 我怎么买得起😂
+
+How can I afford it?
+
+#### 都一样
+
+It's all the same.
+
+#### 我和你感觉一样
+
+I felt/feel the same way.
