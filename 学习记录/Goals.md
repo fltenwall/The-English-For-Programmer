@@ -193,6 +193,6 @@ plan :
 
 ### Wednesday, 03th of May
 
-[Crazily Speak  English(21-30)]()
+[Crazily Speak  English(21-30)](https://www.bilibili.com/video/BV1SJ411N7mZ/?p=10&spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=29f1413980f493b68d14f7176e7144a3)
 
-[note📒]()
+[note📒](https://github.com/fltenwall/The-English-For-Programmer/blob/main/900/Notes/09%20Crazily%20Speak%20English(21-30).md)
